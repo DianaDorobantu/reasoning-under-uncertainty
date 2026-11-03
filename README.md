@@ -1,3 +1,15 @@
+<div align="center">
+
+# Reasoning under Uncertainty
+
+*Optimization · Learning · Control · Decision Theory*
+
+<img src="objects/decision.jpeg" width="600" alt="Decision-Making Under Uncertainty">
+
+</div>
+
+
+
 ## Overview
 
 The objectives of this repo are to:
